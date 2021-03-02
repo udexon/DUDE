@@ -22,3 +22,5 @@ _Going against established norms_ .... Is that legal?
 Younger programmers have not experienced first hands the proverbial fire of revolution against the commercial software establishment in 1990s.
 
 Forgetting the threats from Mega Corporations such as Microsoft Amazon Google Apple Facebook (MAGA+F) is itself an even bigger threat.
+
+At the height of the Free Software Revolution (1.0), the then Microsoft CEO Steve Baller (in)famously accused Linux as "Communism", something which some of our comrades take pride in.
