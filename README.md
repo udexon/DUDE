@@ -75,4 +75,7 @@ DUCT provides a mechanism to quantify these steps of transactions, as a system w
 
 Consider a transaction where Adam in New York city decides to tip Brian in Bangkok an amount of USD 10. Using conventional money transfer or cryptocurrency, the commission fees will be prohibitively high.
 
+In a yet to be implemented DUDE network, Adam and Brian first exchange DUCT tokens, confirming the willingness to pay and receive USD 10, without specifying the actual methods of payment
+
+
 3. Using github (or any public website, e.g. Twitter, Reddit) as temporary storage, until setting up SSH tunnels
