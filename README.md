@@ -25,7 +25,14 @@ Forgetting the threats from Mega Corporations such as Microsoft Amazon Google Ap
 
 At the height of the Free Software Revolution (1.0), the then Microsoft CEO Steve Baller (in)famously accused Linux as "Communism", something which some of our comrades take pride in.
 
-The world has since witnessed at least 2 "great victories" for Free Software, ___BUT___ not for Free Software Programmers, namely:
+The world has since witnessed at least 2 "great victories" for Free Software, ___BUT___ not for (individual) Free Software Programmers, namely:
 
-1. establishment of the Android operating system and its ecosystem
+1. the establishment of the Android operating system and its ecosystem
 2. the rise of Bitcoin and cryptocurrencies
+
+These "victories" proved that the free software (open source) development model is viable and essential, but the "last mile" (a term borrowed from the old telephone industry, for laying the cables to homes) that can reward and benefit individual programmers has been elusive.
+
+Experts who can analyse DUDE source code may verify that DUDE has the following features that break the dilemma：
+
+1. Decentralized User Authentication based on public key cryptography
+2. The use of metaprogramming scripts to simplify GUI, web, mobile and back-end programming
