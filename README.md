@@ -24,3 +24,8 @@ Younger programmers have not experienced first hands the proverbial fire of revo
 Forgetting the threats from Mega Corporations such as Microsoft Amazon Google Apple Facebook (MAGA+F) is itself an even bigger threat.
 
 At the height of the Free Software Revolution (1.0), the then Microsoft CEO Steve Baller (in)famously accused Linux as "Communism", something which some of our comrades take pride in.
+
+The world has since witnessed at least 2 "great victories" for Free Software, ___BUT___ not for Free Software Programmers, namely:
+
+1. establishment of the Android operating system and its ecosystem
+2. the rise of Bitcoin and cryptocurrencies
