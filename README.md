@@ -79,7 +79,7 @@ In a yet to be implemented DUDE network, Adam and Brian first exchange DUCT toke
 
 Next Adam and Brian's DUCT tokens will be broadcast to a selected group of DUDE Agents (DUDAs).
 
-Let us also assume that, Adam and Brian do not have any cryptocurrency wallet. Both Adam and Brian will transfer money (send or receive) using their respective national bank system to a DUDA in their country
+Let us also assume that, Adam and Brian do not have any cryptocurrency wallet. Both Adam and Brian will transfer money (send or receive) using their respective national bank system to (from) a DUDA in their country.
 
 These DUDAs may bid for the job by offering the cheapest commission fees. Some DUDAs may offset the costs of cryptocurrency transactions by combining multiple DUDE transactions into one cryptocurrency transactions for users within the same country.
 
