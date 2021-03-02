@@ -10,3 +10,9 @@ __... UNTIL NOW THAT IS ...__
 In true free software spirit, we shall make the source code available. You are of course free to improve it.
 
 One must highlight the on-going irony &mdash; where an OnlyFans (Ex)-Catholic school mom makes USD 150k a month, while the greats of github and the free software world are literally doing ___worse than whores___ .... (pardon the language as this is the best way to get the message across!)
+
+## DUDE & DUNIIX
+
+Experienced programmers will be able to set up DUDE/DUNIIX web app in 5 minutes, as it is plain old PHP JavaScript.
+
+A brief glance over DUDE source code should reveal to readers that, although not being rocket science, several design decisions go against the well established norms, which explain why no one has been able to create such a universal donation or payment system.
