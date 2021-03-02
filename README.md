@@ -77,5 +77,9 @@ Consider a transaction where Adam in New York city decides to tip Brian in Bangk
 
 In a yet to be implemented DUDE network, Adam and Brian first exchange DUCT tokens, confirming the willingness to pay and receive USD 10, without specifying the actual methods of payment
 
+Next Adam and Brian's DUCT tokens will be broadcast to a selected group of DUDE Agents (DUDAs).
+
+These DUDAs may bid for the job by offering the cheapest commission fees. Some DUDAs may offset the costs of cryptocurrency transactions by combining multiple DUDE transactions into one cryptocurrency transactions for users within the same country.
+
 
 3. Using github (or any public website, e.g. Twitter, Reddit) as temporary storage, until setting up SSH tunnels
