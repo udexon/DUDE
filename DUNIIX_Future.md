@@ -1,3 +1,14 @@
+# DUNIIX 2025
+
+Here is a mass psychology test for all, from non programmers to experts:
+
+- A. Do you believe that technological progress in the next 5 years would be greater than the past 5 years?
+- B. Do you believe that income gaps in the next 5 years will improve compared to the past 5 years?
+- C. If your answer for B is positive, what are the technological or non-technological factors do you think will contribute to B?
+
+Our own opinion for Question B for the past 5 years (improvement / narrowing of income gaps) have not been optimistic.
+
+
 One realistic application scenario would be to use GitHub as temporary storage to relay the IP address of SSH tunnel set up by applications such as ngrok. Once obtained from GitHub, the IP address of the DUDE server running behind the SSH tunnel can be used by DUDE clients. 
 
 A long term solution for DUDE would be to set up VPS (virtual private server) for shared SSH tunnels at centres of population. Subsequently, a theoretical upper limit of 65535 ports can be used for SSH tunnels per fixed IP VPS to host DUDE servers.
