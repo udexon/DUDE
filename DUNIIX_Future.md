@@ -4,7 +4,10 @@ Here is a mass psychology test for all, from non programmers to experts:
 
 - A. Do you believe that technological progress in the next 5 years would be greater than the past 5 years?
 - B. Do you believe that income gaps in the next 5 years will improve compared to the past 5 years?
-- C. If your answer for B is positive, what are the technological or non-technological factors do you think will contribute to B?
+- C. If your answer for B is positive, what are the technological or non-technological factors that you think will contribute to B?
+- D. Do you believe that what you currently believe or do not believe about the future will shape the future?
+- E. Take (I) Android, (II) Bitcoin and (III) China's dominance in technologies by 2021 for examples, what were your believes about them in 2010 or 2000? Do you believe that the people who believed and supported them were instrumental in producing the outcome, or do you believe that they all happened due to random chances?
+- F. Combining questions C, D and E, what are your predictions for 2025 and 2030? What or who will emerge as winners of technologies in 2025 and 2030? Will you play a role in the outcomes?
 
 Our own opinion for Question B for the past 5 years (improvement / narrowing of income gaps) have not been optimistic.
 
