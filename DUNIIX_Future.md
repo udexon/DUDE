@@ -2,7 +2,7 @@
 
 ## Socratic Dialectic for Questioning & Shaping the Future
 
-Here is a mass psychology test for all, applicable for anyone from non programmers to experts:
+1. Here is a mass psychology test for all, applicable for anyone from non programmers to experts:
 
 - A. Do you believe that technological progress in the next 5 years would be greater than the past 5 years?
 - B. Do you believe that income gaps in the next 5 years will improve compared to the past 5 years?
@@ -14,6 +14,9 @@ Here is a mass psychology test for all, applicable for anyone from non programme
 Asking you the right questions may be more convincing than preaching to you with lengthy arguments, for we believe you would have your own ability and access to data to find the answers, but what you need are not answers, but questions that may guide your thoughts. 
 
 We may call this an extension of Socratic Dialectic: Questions about the future which affect our believes to shape it.
+
+
+2. What are the characteristics of DUNIIX that are comparable to (1-E) (I) Android (II) Bitcoin and (III) China's technologies?
 
 <hr>
 
