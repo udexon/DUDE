@@ -2,7 +2,7 @@
 
 ## Socratic Dialectic for Questioning & Shaping the Future
 
-1. Here is a mass psychology test for all, applicable for anyone from non programmers to experts:
+1. Here is a mass psychology test for all, applicable to anyone from non programmers to experts:
 
 - A. Do you believe that technological progress in the next 5 years would be greater than the past 5 years?
 - B. Do you believe that income gaps in the next 5 years will improve compared to the past 5 years?
@@ -17,6 +17,13 @@ We may call this an extension of Socratic Dialectic: Questions about the future 
 
 
 2. What are the characteristics of DUNIIX that are comparable to (1-E) (I) Android (II) Bitcoin and (III) China's technologies?
+
+Short term (10 years) historical trends concerning government policies and implementations are aplenty for observations (past) and predictions. 
+
+Free software projects are the only non governmental forces that have significant observable effects in short term history (10 years) but lack academic studies due to bias in funding by corporations and governments. 
+
+Despite these, free software has grown against all odds. DUNIIX will take free software revolution to the next level, improving software, reward for programmers, non programmers, transparency in government and corporation, hence literally everything as in the biggest Revolution since the original Revolution of heliocentrism against Christianity.
+
 
 <hr>
 
