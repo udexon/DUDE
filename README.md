@@ -42,8 +42,18 @@ Experts who can analyse DUDE source code may verify that DUDE has the following 
 
 We will just wrap up this article with an explanation of the names DUDE and DUNIIX, together with a link to the next tutorial, conforming to the new "TikTok attention span" rule:
 
-- We have decided to prefix our apps with the letters DU for "Decentralized User Centric" as we view blockchain technologies as only "half decentralized", as each blockchain are in fact "centralized to itself".
+1. We have decided to prefix our apps with the letters DU for "Decentralized User Centric" as we view blockchain technologies as only "half decentralized", as each blockchain are in fact "centralized to itself".
 
-- DUNIIX is the name we use as a pun to the "father of all evils" UNIX system, against which Richard Stallman coined "GNU is Not Unix". "-II-" is used in the name to avoid legal confusions with existing DUNIX names.
+2. DUNIIX is the name we use as a pun to the "father of all evils" UNIX system, against which Richard Stallman coined "GNU is Not Unix". "-II-" is used in the name to avoid legal confusions with existing DUNIX names.
+
+3. Underlying DUDE and other DUNIIX apps is DUCT — Decentralized User Contract Token — a JSON string token employing both Signing & Cipher functions of RSA cryptographic scheme.
+
+As such, a DUCT token has the equivalent effect of a signed document or statement from one party to another.
+
+Multiple DUCT tokens can be grouped together to form a legal agreement.
+
+The most important feature of DUCT token is its decentralized nature — it can be generated without login into ANY existing web site or app.
+
+In the next tutorial, we shall demonstrate how DUCT token can be generated, as part of the process to complete a DUDE transaction:
 
 - https://github.com/udexon/DUDE/blob/main/DUCT.md
