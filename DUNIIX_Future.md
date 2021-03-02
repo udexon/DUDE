@@ -1,6 +1,6 @@
 # DUNIIX 2025
 
-## Socratic Dialectic for Questioning the Future
+## Socratic Dialectic for Questioning & Shaping the Future
 
 Here is a mass psychology test for all, from non programmers to experts:
 
