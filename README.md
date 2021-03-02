@@ -17,9 +17,9 @@ Experienced programmers will be able to set up DUDE/DUNIIX web app in 5 minutes,
 
 A brief glance over DUDE source code should reveal to readers that, although not being rocket science, several design decisions go against the well established norms, which explain why no one has been able to create such a universal donation or payment system.
 
-_Going against established norms_ .... Is that legal?
+- _Going against established norms_ .... Is that legal?
 
-Younger programmers have not experienced first hands the proverbial fire of revolution against the commercial software establishment in 1990s.
+Younger programmers have not experienced first hands the proverbial fire of revolution against the commercial software establishment in the 1990s.
 
 Forgetting the threats from Mega Corporations such as Microsoft Amazon Google Apple Facebook (MAGA+F) is itself an even bigger threat.
 
