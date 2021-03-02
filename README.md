@@ -36,3 +36,12 @@ Experts who can analyse DUDE source code may verify that DUDE has the following 
 
 1. Decentralized User Authentication based on public key cryptography
 2. The use of metaprogramming scripts to simplify GUI, web, mobile and back-end programming
+
+
+## DU = Decentralized User Centric
+
+We will just wrap up this article with an explanation of the names DUDE and DUNIIX, together with a link to the next tutorial, conforming to the new "TikTok attention span" rule:
+
+- We have decided to prefix our apps with the letters DU for "Decentralized User Centric" as we view blockchain technologies as only "half decentralized", as each blockchain are in fact "centralized to itself".
+
+- DUNIIX is the name we use as a pun to the "father of all evils" UNIX system, against which Richard Stallman coined "GNU is Not Unix". "-II-" is used in the name to avoid legal confusions with existing DUNIX names.
