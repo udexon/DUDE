@@ -8,6 +8,9 @@ Here is a mass psychology test for all, from non programmers to experts:
 
 Our own opinion for Question B for the past 5 years (improvement / narrowing of income gaps) have not been optimistic.
 
+Success of DUNIIX in 2025 depends on number of people who believe in C.
+
+There are people who deny B and refuse to even consider any possible solution in C.
 
 One realistic application scenario would be to use GitHub as temporary storage to relay the IP address of SSH tunnel set up by applications such as ngrok. Once obtained from GitHub, the IP address of the DUDE server running behind the SSH tunnel can be used by DUDE clients. 
 
