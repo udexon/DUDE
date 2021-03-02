@@ -73,5 +73,6 @@ Transactions between multiple individuals or parties are made up of many steps, 
 
 DUCT provides a mechanism to quantify these steps of transactions, as a system with a decentralized architecture, thus allowing the possibilities of greater competitions amongst agents, resulting in significant reduction of overall costs.
 
+Consider a transaction where Adam in New York city decides to tip Brian in Bangkok an amount of USD 10. Using conventional money transfer or cryptocurrency, the commission fees will be prohibitively high.
 
 3. Using github (or any public website, e.g. Twitter, Reddit) as temporary storage, until setting up SSH tunnels
