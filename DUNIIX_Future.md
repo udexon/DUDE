@@ -24,6 +24,7 @@ Free software projects are the only non governmental forces that have significan
 
 Despite these, free software has grown against all odds. DUNIIX will take free software revolution to the next level, improving software, reward for programmers, non programmers, transparency in government and corporation, hence literally everything as in the biggest Revolution since the original Revolution of heliocentrism against Christianity.
 
+The fundamental factors behind free software are that they affect everyone, cannot be stopped because anyone who has leisure time may contribute, and the Internet itself is the mechanism to combine these minute actions by programmers, one line at a time, into literally the biggest revolution since the original heliocentric scientific revolution.
 
 <hr>
 
