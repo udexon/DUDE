@@ -71,5 +71,7 @@ Must have balance (not just contetns, but visually, layout too), don't let any o
 
 Transactions between multiple individuals or parties are made up of many steps, which may or may not be quantified, depending on the needs and costs of implementation as computer software systems.
 
+DUCT provides a mechanism to quantify these steps of transactions, as a system with a decentralized architecture, thus allowing the possibilities of greater competitions amongst agents, resulting in significant reduction of overall costs.
+
 
 3. Using github (or any public website, e.g. Twitter, Reddit) as temporary storage, until setting up SSH tunnels
