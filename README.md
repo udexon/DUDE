@@ -68,4 +68,8 @@ Must have balance (not just contetns, but visually, layout too), don't let any o
 ## Plans
 
 1. Multiple Agents to complete payment transaction
-2. Using github (or any public website, e.g. Twitter, Reddit) as temporary storage, until setting up SSH tunnels
+
+Transactions between multiple individuals or parties are made up of many steps, which may or may not be quantified, depending on the needs and costs of implementation as computer software systems.
+
+
+3. Using github (or any public website, e.g. Twitter, Reddit) as temporary storage, until setting up SSH tunnels
