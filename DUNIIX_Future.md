@@ -9,6 +9,8 @@ Here is a mass psychology test for all, from non programmers to experts:
 - E. Take (I) Android, (II) Bitcoin and (III) China's dominance in technologies by 2021 for examples, what were your believes about them in 2010 or 2000? Do you believe that the people who believed and supported them were instrumental in producing the outcome, or do you believe that they all happened due to random chances?
 - F. Combining questions C, D and E, what are your predictions for 2025 and 2030? What or who will emerge as winners of technologies in 2025 and 2030? Will you play a role in the outcomes?
 
+Asking you the right questions may be more convincing than preaching to you with lengthy arguments, for we believe you would have your own ability and access to data to find the answers, but what you need are not answers, but questions that may guide your thoughts. We may call this an extension of Socratic Dialectic: Questions about the future which affect our believes to shape it.
+
 Our own opinion for Question B for the past 5 years (improvement / narrowing of income gaps) have not been optimistic.
 
 Success of DUNIIX in 2025 depends on number of people who believe in C.
