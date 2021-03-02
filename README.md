@@ -85,3 +85,11 @@ These DUDAs may bid for the job by offering the cheapest commission fees. Some D
 
 
 3. Using github (or any public website, e.g. Twitter, Reddit) as temporary storage, until setting up SSH tunnels
+
+Underlying DUDE, is a "barebone" chat system that store text messages as temporary JSON files on the back end PHP server.
+
+Further, these messages can be encrypted using the public key of the intended recipient. 
+
+As such, DUDE messages can be saved temporarily on publicly accessible websites, such as GitHub or Twitter, as long as the encryption is not broken before the message is retrieved and deleted.
+
+
