@@ -2,7 +2,7 @@
 
 ## Socratic Dialectic for Questioning & Shaping the Future
 
-Here is a mass psychology test for all, from non programmers to experts:
+Here is a mass psychology test for all, applicable for anyone from non programmers to experts:
 
 - A. Do you believe that technological progress in the next 5 years would be greater than the past 5 years?
 - B. Do you believe that income gaps in the next 5 years will improve compared to the past 5 years?
