@@ -1,5 +1,5 @@
 # DUDE
-DUDE: Decentralized User Centric Donation Scheme &mdash; the _OnlyFans_ clone for Programmers, but better
+- DUDE: Decentralized User Centric Donation Scheme &mdash; the _OnlyFans_ clone for Programmers, but better.
 
 Let's face it: 
 
