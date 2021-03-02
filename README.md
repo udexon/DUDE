@@ -57,3 +57,10 @@ The most important feature of DUCT token is its decentralized nature — it can 
 In the next tutorial, we shall demonstrate how DUCT token can be generated, as part of the process to complete a DUDE transaction:
 
 - https://github.com/udexon/DUDE/blob/main/DUCT.md
+
+
+## Slogans, Components, Plans
+
+Readers want to know components (must know to understand project, how they work) and plans (what, when to do to deliver project) of project beside slogans (to excite emotion).
+
+Must have balance, don't let any of slogans, components, plans dominate. Else will lead to bad impression or misunderstanding.
