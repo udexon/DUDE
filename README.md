@@ -45,3 +45,5 @@ We will just wrap up this article with an explanation of the names DUDE and DUNI
 - We have decided to prefix our apps with the letters DU for "Decentralized User Centric" as we view blockchain technologies as only "half decentralized", as each blockchain are in fact "centralized to itself".
 
 - DUNIIX is the name we use as a pun to the "father of all evils" UNIX system, against which Richard Stallman coined "GNU is Not Unix". "-II-" is used in the name to avoid legal confusions with existing DUNIX names.
+
+- https://github.com/udexon/DUDE/blob/main/DUCT.md
