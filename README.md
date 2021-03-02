@@ -9,4 +9,4 @@ __... UNTIL NOW THAT IS ...__
 
 In true free software spirit, we shall make the source code available. You are of course free to improve it.
 
-One must highlight the on-going irony &mdash; where a OnlyFans (Ex)-Catholic school mom makes USD 150k a month, while the greats of github and the free software world are literally doing ___worse than whores___ .... (pardon the language as this is the best way to get the message across!)
+One must highlight the on-going irony &mdash; where an OnlyFans (Ex)-Catholic school mom makes USD 150k a month, while the greats of github and the free software world are literally doing ___worse than whores___ .... (pardon the language as this is the best way to get the message across!)
