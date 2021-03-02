@@ -64,3 +64,8 @@ In the next tutorial, we shall demonstrate how DUCT token can be generated, as p
 Readers want to know components (must know to understand project, how they work) and plans (what, when to do to deliver project) of project beside slogans (to excite emotion).
 
 Must have balance, don't let any of slogans, components, plans dominate. Else will lead to bad impression or misunderstanding.
+
+## Plans
+
+1. Multiple Agents to complete payment transaction
+2. Using github (or any public website, e.g. Twitter, Reddit) as temporary storage, until setting up SSH tunnels
