@@ -26,11 +26,11 @@ Despite these, free software has grown against all odds. DUNIIX will take free s
 
 The fundamental factors behind free software are that they affect everyone, cannot be stopped because anyone who has leisure time may contribute, and the Internet itself is the mechanism to combine these minute actions by programmers, one line of code at a time, into literally the biggest revolution since the original heliocentric scientific revolution.
 
-World economy grew after World War II due to land sea air transport manufacturing and telecommunications.
+World economy grew after World War II due to the progress in land, sea, air transport, manufacturing and telecommunications.
 
 China is biggest beneficiary of free software revolution as its growth coincided with FSR 1.0, the rise of GNU Linux. This is beyond US control as China is behind the proverbial Great Wall, has nuclear weapons, and US cannot stop free software revolution anywhere.
 
-Bill Gates may be able to control COVID, but he still lost to FSR 1.0. DUNIIX can beat him again by making governments and corporations transparent with DUCT. 
+Bill Gates may be able to control COVID for now, but he still lost to FSR 1.0. DUNIIX can beat him again by making governments and corporations transparent with DUCT. 
 
 From the discovery of fire in the primitive age, to heliocentrism, knowledge brings progress.
 
