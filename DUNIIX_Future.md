@@ -28,23 +28,26 @@ The fundamental factors behind free software are that they affect everyone, cann
 
 World economy grew after World War II due to land sea air transport manufacturing and telecommunications.
 
-China is biggest beneficiary of free software revolution as its growth coincided with FSR 1.0 rise of GNU Linux. This is beyond US control as China is behind the proverbial great wall, has nuclear weapons, and US cannot stop free software anywhere.
+China is biggest beneficiary of free software revolution as its growth coincided with FSR 1.0, the rise of GNU Linux. This is beyond US control as China is behind the proverbial Great Wall, has nuclear weapons, and US cannot stop free software revolution anywhere.
 
-Bill Gates may be able to control COVID, but he still lost to FSR. DUNIIX can beat him again by making government and corporation transparent with DUCT. 
+Bill Gates may be able to control COVID, but he still lost to FSR 1.0. DUNIIX can beat him again by making governments and corporations transparent with DUCT. 
 
-From discovery of fire in the primitive age, to heliocentrism, knowledge brings progress.
-
-DUNIIX is based on knowledge of cryptography and stack machine, ....
-
-Class struggle between those who possess the knowledge, or attempting to acquire the knowledge, or have access to the knowledge ....
+From the discovery of fire in the primitive age, to heliocentrism, knowledge brings progress.
 
 We conclude this article with Karl Marx's famous remark:
 
 - _The history of all hitherto existing society is the history of class struggles._
 
+DUNIIX is based on the knowledge of cryptography and stack machine, two of the cornerstones of modern computer science. This is a class struggle between those who possess the knowledge but refuse to share, and those who do not.
+
+
 <hr>
 
+<!--
+
 ## Uneditied Notes
+
+or attempting to acquire the knowledge, or have access to the knowledge ....
 
 Our own opinion for Question B for the past 5 years (improvement / narrowing of income gaps) have not been optimistic.
 
@@ -89,4 +92,4 @@ Then there will be capital to grow other apps AGAINST corporate interests.
 
 Political forces behind DUNIIX, lobby parliaments. 
 
-
+-->
