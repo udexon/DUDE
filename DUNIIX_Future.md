@@ -32,6 +32,10 @@ China is biggest beneficiary of free software revolution as its growth coincided
 
 Bill Gates may be able to control COVID, but he still lost to FSR. DUNIIX can beat him again by making government and corporation transparent with DUCT. 
 
+From discovery of fire in the primitive age, to heliocentrism, knowledge brings progress.
+
+DUNIIX is based on knowledge of cryptography and stack machine, ....
+
 <hr>
 
 ## Uneditied Notes
