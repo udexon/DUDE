@@ -36,6 +36,12 @@ From discovery of fire in the primitive age, to heliocentrism, knowledge brings 
 
 DUNIIX is based on knowledge of cryptography and stack machine, ....
 
+Class struggle between those who possess the knowledge, or attempting to acquire the knowledge, or have access to the knowledge ....
+
+We conclude this article with Karl Marx's famous remark:
+
+- _The history of all hitherto existing society is the history of class struggles._
+
 <hr>
 
 ## Uneditied Notes
